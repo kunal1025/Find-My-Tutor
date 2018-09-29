@@ -1,3 +1,11 @@
+########################
+# sails
+########################
+.sails
+.waterline
+.rigging
+.tmp
+
 # Logs
 logs
 *.log
